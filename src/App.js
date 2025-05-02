@@ -1,24 +1,55 @@
-import logo from './logo.svg';
+
 import './App.css';
+
+
+
+import React from 'react';
+import Homepage from './Homepage';
+import BookingPage from './bookingComponents/BookingPage';
+import ConfirmedBooking from './bookingComponents/ConfirmedBooking';
+import { BrowserRouter, Routes, Route,Link} from "react-router-dom";
+
+
+
 
 function App() {
   return (
-    <div className="App">
-      <header className="App-header">
-        <img src={logo} className="App-logo" alt="logo" />
-        <p>
-         My test
-        </p>
-        <a
-          className="App-link"
-          href="https://reactjs.org"
-          target="_blank"
-          rel="noopener noreferrer"
-        >
-          Learn React
-        </a>
-      </header>
-    </div>
+<>
+<BrowserRouter>
+ <header>
+      <div className="grid">
+        <div className="logo">
+          <img src="assets/Logo.svg" alt="Company Logo" />
+        </div>
+        <div className="navHolder">
+
+        <nav>
+      <ul>
+        <li>
+          <Link to="/homepage">Homepage</Link>
+        </li>
+        <li>
+          <Link to="/booking">Booking Page</Link>
+        </li>
+
+      </ul>
+
+    </nav>
+
+
+        </div>
+      </div>
+
+    </header>
+
+
+<Routes>
+        <Route path="/homepage" element={<Homepage />} />
+        <Route path="/booking" element={<BookingPage />} />
+        <Route path="/confirmed-booking" element={<ConfirmedBooking />} />
+      </Routes>
+    </BrowserRouter>
+</>
   );
 }
 

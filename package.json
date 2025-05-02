@@ -1,7 +1,7 @@
 {
-  "name": "jg-capstone-2024",
+  "name": "jg-capstone-2025",
   "version": "0.1.0",
-  "Homepage": "https://github.com/jgCodingMain/capstone-project/tree/gh-pages",
+  "Homepage": "https://jgcodingmain.github.io/capstone-project",
   "private": true,
   "dependencies": {
     "@testing-library/jest-dom": "^5.17.0",

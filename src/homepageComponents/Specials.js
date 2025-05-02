@@ -20,7 +20,7 @@ function Specials() {
     <article>
       <div>
         <div>
-          <img src="./assets/greek salad.jpg" />
+          <img src="https://jgcodingmain.github.io/capstone-project/assets/greek salad.jpg" />
         </div>
         <div class="specialsContent">
 
@@ -45,7 +45,7 @@ function Specials() {
     <article>
       <div>
         <div>
-          <img src="./assets/greek salad.jpg" />
+          <img src="https://jgcodingmain.github.io/capstone-project/assets/greek salad.jpg" />
         </div>
         <div class="specialsContent">
 
@@ -70,7 +70,7 @@ function Specials() {
     <article>
       <div>
         <div>
-          <img src="./assets/greek salad.jpg" />
+          <img src="https://jgcodingmain.github.io/capstone-project/assets/greek salad.jpg" />
         </div>
         <div class="specialsContent">
 

@@ -24,7 +24,7 @@ export default function Header () {
       <header>
       <div className="grid">
         <div className="logo">
-          <img src="./assets/Logo.svg" alt="Company Logo" />
+          <img src="https://jgcodingmain.github.io/capstone-project/assets/Logo.svg" alt="Company Logo" />
         </div>
         <div className="navHolder">
 

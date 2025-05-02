@@ -11,7 +11,7 @@ function Footer() {
 
       <footer>
       <div class="footerHolder">
-        <div> <img src="./assets/restaurant.jpg" alt="Company Logo" className="logo" /></div>
+        <div> <img src="https://jgcodingmain.github.io/capstone-project/assets/restaurant.jpg" alt="Company Logo" className="logo" /></div>
         <div role="navigation" aria-label="Main" class="footerLinkContainer">
           <h4>Site Map</h4>
           <ul>

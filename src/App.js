@@ -19,7 +19,7 @@ function App() {
  <header>
       <div className="grid">
         <div className="logo">
-          <img src="assets/Logo.svg" alt="Company Logo" />
+          <img src="./assets/Logo.svg" alt="Company Logo" />
         </div>
         <div className="navHolder">
 

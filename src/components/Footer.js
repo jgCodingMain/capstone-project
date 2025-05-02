@@ -15,7 +15,7 @@ function Footer() {
         <div role="navigation" aria-label="Main" class="footerLinkContainer">
           <h4>Site Map</h4>
           <ul>
-            <li><a href="/homepage">Home</a></li>
+            <li><a href="#">Home</a></li>
             <li><a href="#">About</a></li>
             <li><a href="#">Menu</a></li>
             <li> <Link to="/booking">Reservations</Link></li>

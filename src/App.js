@@ -15,7 +15,7 @@ import { BrowserRouter, Routes, Route,Link} from "react-router-dom";
 function App() {
   return (
 <>
-<BrowserRouter basename="/capstone-project/">
+<BrowserRouter>
  <header>
       <div className="grid">
         <div className="logo">

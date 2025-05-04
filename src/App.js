@@ -15,7 +15,7 @@ import { BrowserRouter, Routes, Route,Link} from "react-router-dom";
 function App() {
   return (
 <>
-<BrowserRouter basename="./capstone-project/">
+<BrowserRouter basename={process.env.PUBLIC_URL} >
  <header>
       <div className="grid">
         <div className="logo">

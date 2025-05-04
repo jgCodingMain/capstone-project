@@ -7,7 +7,7 @@ import React from 'react';
 import Homepage from './Homepage';
 import BookingPage from './bookingComponents/BookingPage';
 import ConfirmedBooking from './bookingComponents/ConfirmedBooking';
-import { BrowserRouter, Routes, Route,Link} from "react-router-dom";
+import { HashRouter, Route, Routes, Link } from "react-router-dom";
 
 
 
@@ -15,7 +15,7 @@ import { BrowserRouter, Routes, Route,Link} from "react-router-dom";
 function App() {
   return (
 <>
-<BrowserRouter basename={process.env.PUBLIC_URL} >
+<HashRouter>
  <header>
       <div className="grid">
         <div className="logo">
@@ -48,7 +48,7 @@ function App() {
         <Route path="/booking" element={<BookingPage />} />
         <Route path="/confirmed-booking" element={<ConfirmedBooking />} />
       </Routes>
-    </BrowserRouter>
+</HashRouter>
 </>
   );
 }

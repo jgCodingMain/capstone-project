@@ -81,7 +81,7 @@ The final stage after the grayscale wireframe included adding all the photos, co
 
 ## Live Demo
 
-[Live Demo Link](https://jgcodingmain.github.io/capstone-project/homepage)
+[Live Demo Link](https://jgcodingmain.github.io/capstone-project/#/homepage)
 
 ---
 

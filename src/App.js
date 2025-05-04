@@ -15,11 +15,11 @@ import { BrowserRouter, Routes, Route,Link} from "react-router-dom";
 function App() {
   return (
 <>
-<BrowserRouter basename="/">
+<BrowserRouter basename="./capstone-project/">
  <header>
       <div className="grid">
         <div className="logo">
-          <img src="https://jgcodingmain.github.io/capstone-project/assets/Logo.svg" alt="Company Logo" />
+          <img src="./assets/Logo.svg" alt="Company Logo" />
         </div>
         <div className="navHolder">
 

@@ -1,69 +1,92 @@
-# Getting Started with Create React App
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
-## Available Scripts
 
-In the project directory, you can run:
 
-### `npm start`
+## Table of Content
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
+- [Introduction](#introduction)
+- [Software and Languages Used](#software-and-languages-used)
+- [Planning Stages](#planning-stages)
+    - [Wireframe](#wireframe)
+    - [UI Design](#ui-design)
+- [Final Site Build](#final-site-build)
+- [Live Demo](#live-demo)
+- [Screenshots](#screenshots)
+- [Installation](#installation)
+- [License](#license)
 
-The page will reload when you make changes.\
-You may also see any lint errors in the console.
 
-### `npm test`
 
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
+![banner](./screenshots/banner.png)
 
-### `npm run build`
 
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
+# Introduction
 
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
+I created a react app that showcased a solution for creating a restaurant reservation system on the Little Lemon Restaurant web site. The project was my final capstone site for the Coursera Front End Developer Certificate program. The site encompassed many of the front-end techonologies and principles we learned in the class to date.
 
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
+## Software and Languages Used
 
-### `npm run eject`
+Figma, Adobe Photoshop, Visual Studio Code, Github
+HTML5, CSS and ReactJS
 
-**Note: this is a one-way operation. Once you `eject`, you can't go back!**
+## Planning Stages
 
-If you aren't satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
+I recieved an objective in class to create a new online reservation system for The Little Lemon Website. Coursera provided us with a figma file that we had to build off of that included a style guide with predetermined fonts, colors and sizing for the site.
 
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you're on your own.
+Firstly, I sketched my ideas on paper in a rough manner. Then I proceeeded to create a grayscale wireframe in Figma that was as close to the original design as possible in terms of overal layout.
 
-You don't have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn't feel obligated to use this feature. However we understand that this tool wouldn't be useful if you couldn't customize it when you are ready for it.
+The final stage after the grayscale wireframe included adding all the photos, colors and some interactivity to the prototype.
 
-## Learn More
 
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
+---
 
-To learn React, check out the [React documentation](https://reactjs.org/).
+### Wireframe
 
-### Code Splitting
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/code-splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
+<details>
+<summary>Show Wireframe</summary>
 
-### Analyzing the Bundle Size
+![wireframe](./screenshots/wireframe.png)
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
+</details>
 
-### Making a Progressive Web App
+<br />
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
 
-### Advanced Configuration
+### Prototype
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
 
-### Deployment
+<details>
+<summary>Show Prototype</summary>
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
+![prototype](./screenshots/prototype.png)
+
+
+</details>
+
+---
+
+## Final Site Build
+
+<details>
+<summary>Show Final Site Info</summary>
+
+![finalsite](./screenshots/finalSiteHome.png)
+![finalsitebooking](./screenshots/finalSiteBooking.png)
+
+
+</details>
+
+---
+
+## Live Demo
+
+[Live Demo Link](https://jgcodingmain.github.io/capstone-project/homepage)
+
+---
+
+
+
 
 ### `npm run build` fails to minify
 

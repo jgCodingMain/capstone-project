@@ -7,6 +7,7 @@
 - [Introduction](#introduction)
 - [Software and Languages Used](#software-and-languages-used)
 - [Planning Stages](#planning-stages)
+    - [User Persona](#user-persona)
     - [Wireframe](#wireframe)
     - [UI Design](#ui-design)
 - [Final Site Build](#final-site-build)

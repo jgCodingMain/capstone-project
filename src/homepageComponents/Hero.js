@@ -14,7 +14,7 @@ function Hero() {
         <p>Little Lemon is a family-owned Mediterranean restaurant, focused on traditional recipes served with a
           modern twist.</p><button><a href="https://jgcodingmain.github.io/capstone-project/#/booking">Reserve a Table</a></button>
       </div>
-      <div class="gridParentContainer"><img src="https://jgcodingmain.github.io/capstone-project/assets/restauranfood.jpg" alt="Little Lemon appetizer" />
+      <div class="gridParentContainer"><img src="./assets/restauranfood.jpg" alt="Little Lemon appetizer" />
       </div>
     </div>
 

@@ -17,11 +17,11 @@ function Reviews() {
                                 </div>
 
                                 <div>
-                                    <img src="https://jgcodingmain.github.io/capstone-project/assets/5stars.png" />
+                                    <img src="./assets/5stars.png" />
                                 </div>
 
                                 <div>
-                                    <img src="https://jgcodingmain.github.io/capstone-project/assets/userIcon.png" />
+                                    <img src="./assets/userIcon.png" />
                                 </div>
 
                                 <div>
@@ -45,11 +45,11 @@ function Reviews() {
                                 </div>
 
                                 <div>
-                                    <img src="https://jgcodingmain.github.io/capstone-project/assets/5stars.png" />
+                                    <img src="./assets/5stars.png" />
                                 </div>
 
                                 <div>
-                                    <img src="https://jgcodingmain.github.io/capstone-project/assets/userIcon.png" />
+                                    <img src="./assets/userIcon.png" />
                                 </div>
 
                                 <div>
@@ -72,11 +72,11 @@ function Reviews() {
                                 </div>
 
                                 <div>
-                                    <img src="https://jgcodingmain.github.io/capstone-project/assets/5stars.png" />
+                                    <img src="./assets/5stars.png" />
                                 </div>
 
                                 <div>
-                                    <img src="https://jgcodingmain.github.io/capstone-project/assets/userIcon.png" />
+                                    <img src="./assets/userIcon.png" />
                                 </div>
 
                                 <div>

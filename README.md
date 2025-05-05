@@ -47,7 +47,7 @@ The final stage after the grayscale wireframe included adding all the photos, co
 
 
 <details>
-<summary>Show User Persona/summary>
+<summary>Show User Persona</summary>
 
 ![wireframe](./screenshots/userPersona.png)
 

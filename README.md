@@ -22,7 +22,7 @@
 
 # Introduction
 
-I created a react app that showcased a solution for creating a restaurant reservation system on the Little Lemon Restaurant web site. The project was my final capstone site for the Coursera Front End Developer Certificate program. The site encompassed many of the front-end techonologies and principles we learned in the class to date.
+I designed a react app that showcased a solution for creating a restaurant reservation system on the Little Lemon Restaurant web site. The project was my final capstone site for the Coursera Front End Developer Certificate program. The site encompassed many of the front-end techonologies and principles we learned in the class to date.
 
 ## Software and Languages Used
 
@@ -33,12 +33,29 @@ HTML5, CSS and ReactJS
 
 I recieved an objective in class to create a new online reservation system for The Little Lemon Website. Coursera provided us with a figma file that we had to build off of that included a style guide with predetermined fonts, colors and sizing for the site.
 
+The initial stages of the UI process involves brainstorming and creating a user persona. We were taught in the course the philosophies and best practices of usability.
+
 Firstly, I sketched my ideas on paper in a rough manner. Then I proceeeded to create a grayscale wireframe in Figma that was as close to the original design as possible in terms of overal layout.
 
 The final stage after the grayscale wireframe included adding all the photos, colors and some interactivity to the prototype.
 
 
 ---
+
+### User Persona
+
+
+<details>
+<summary>Show User Persona/summary>
+
+![wireframe](./screenshots/userPersona.png)
+
+</details>
+
+<br />
+
+
+
 
 ### Wireframe
 

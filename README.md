@@ -12,9 +12,7 @@
     - [UI Design](#ui-design)
 - [Final Site Build](#final-site-build)
 - [Live Demo](#live-demo)
-- [Screenshots](#screenshots)
-- [Installation](#installation)
-- [License](#license)
+
 
 
 

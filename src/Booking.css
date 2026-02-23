@@ -59,7 +59,7 @@ form {
   margin: 0 auto
 }
  .div2 {
-  background: url(./assets/group.png);
+  background: url(https://jgcodingmain.github.io/capstone-project/assets/group.png);
   background-position: 30px 40px;
   background-repeat: no-repeat;
   display: flex;
@@ -121,7 +121,7 @@ select {
   margin: 0 auto;
 }
  .div2 {
-  background: url('./assets/group.png');
+  background: url('https://jgcodingmain.github.io/capstone-project/assets/group.png');
   background-position: 30px 40px;
   background-repeat: no-repeat;
 }

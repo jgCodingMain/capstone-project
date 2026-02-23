@@ -19,14 +19,14 @@ function App() {
  <header>
       <div className="grid">
         <div className="logo">
-          <img src="./assets/Logo.svg" alt="Company Logo" />
+          <img src="https://jgcodingmain.github.io/capstone-project/assets/Logo.svg" alt="Company Logo" />
         </div>
         <div className="navHolder">
 
         <nav>
       <ul>
         <li>
-          <Link to="/homepage">Homepage</Link>
+          <Link to="/">Homepage</Link>
         </li>
         <li>
           <Link to="/booking">Booking Page</Link>
@@ -44,7 +44,7 @@ function App() {
 
 
 <Routes>
-        <Route path="/homepage" element={<Homepage />} />
+        <Route path="/" element={<Homepage />} />
         <Route path="/booking" element={<BookingPage />} />
         <Route path="/confirmed-booking" element={<ConfirmedBooking />} />
       </Routes>
